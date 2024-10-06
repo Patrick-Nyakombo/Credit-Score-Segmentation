@@ -8,17 +8,29 @@ This classification enables financial institutions to evaluate the credit risk a
 
 ### Description of the Data
 Below is the description of all the features in the data:
+    
     - Age: This feature represents the age of the individual.
+    
     - Gender: This feature captures the gender of the individual.
+    
     - Marital Status: This feature denotes the marital status of the individual.
+    
     - Education Level: This feature represents the highest level of education attained by the individual.
+    
     - Employment Status: This feature indicates the current employment status of the individual.
+    
     - Credit Utilization Ratio: This feature reflects the ratio of credit used by the individual compared to their total available credit limit.
+    
     - Payment History: It represents the monthly net payment behaviour of each customer, taking into account factors such as on-time payments, late payments, missed payments, and defaults.
+    
     - Number of Credit Accounts: It represents the count of active credit accounts the person holds.
+    
     - Loan Amount: It indicates the monetary value of the loan.
+    
     - Interest Rate: This feature represents the interest rate associated with the loan.
+    
     - Loan Term: This feature denotes the duration or term of the loan.
+    
     - Type of Loan: It includes categories like “Personal Loan,” “Auto Loan,” or potentially other types of loans.
 
 ### Summary
